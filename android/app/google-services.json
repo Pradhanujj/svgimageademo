@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685763376179",
+    "project_id": "svgauth",
+    "storage_bucket": "svgauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685763376179:android:4fb4d11e79bad563719f46",
+        "android_client_info": {
+          "package_name": "com.example.svgimageademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685763376179-7m847h72flr21pqo0kjr35hip8phcq8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMm9MSKi-jLJBRqtuVWwq3Cdw42AuLqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685763376179-7m847h72flr21pqo0kjr35hip8phcq8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
